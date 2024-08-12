@@ -1,7 +1,7 @@
 <img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
-<img src="![X](https://github.com/user-attachments/assets/add1fe81-60c9-4ff5-9fae-51ce0a92d3e9)
+<img src="https://github.com/user-attachments/assets/add1fe81-60c9-4ff5-9fae-51ce0a92d3e9
 " min-width="200px" max-width="200px" width="200px" align="center" alt="Patins">
 
 <img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
