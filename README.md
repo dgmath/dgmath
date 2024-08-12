@@ -6,8 +6,8 @@
 
 <img src="https://github.com/csayuriwz/csayuriwz/blob/main/Rectangle.png">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csayuriwz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csayuriwz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgmath&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmath&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
